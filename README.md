@@ -1,4 +1,4 @@
-Programa que realiza o cadastro de duas carta seguindo o modelo do jogo "Super Trunfo", edição Paises, e que realiza comparações entre as cartas decidindo quais valores vencem.
+Programa que realiza o cadastro de duas cartas seguindo o modelo do jogo "Super Trunfo", edição Paises, e que realiza comparações entre as cartas decidindo quais valores vencem.
 
 Após a declaração das variaveis, o programa pede ao usuario de cadastrar as informações de duas cartas: Codigo do estado, nome de Cidade, população, area, PIB, pontos turisticos, densidade populacional e PIB per capita;
 somando os valores pode-se obtenir o valor Super Poder.
